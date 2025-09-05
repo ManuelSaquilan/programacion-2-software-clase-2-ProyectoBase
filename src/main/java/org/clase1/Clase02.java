@@ -3,6 +3,7 @@ package org.clase1;
 public class Clase02 {
 
 	public static void main(String[] args) {
+		// TODO Auto-generated method stub
 		byte edad=12;
 		short largo=10000;
 		int	ancho=2000000000;
