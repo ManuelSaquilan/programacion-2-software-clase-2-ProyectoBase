@@ -3,7 +3,6 @@ package org.clase1;
 public class Clase02 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		byte edad=12;
 		short largo=10000;
 		int	ancho=2000000000;
@@ -19,11 +18,6 @@ public class Clase02 {
 		System.out.println("Contenido de la variable double:"+peso2);
 		System.out.println("Contenido de la variable boolean:"+existe);
 
-		/*
-		
-		Bloque de comentarios
-		
-		*/
 	}
 
 }
