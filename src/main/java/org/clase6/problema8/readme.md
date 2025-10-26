@@ -1,0 +1,2 @@
+# Problema 8:
+Utilizando la clase Carta del principio de este apunte, crear un mazo de cartas españolas de 48 cartas (1 al 12 de oro, 1 al 12 de copas, 1 al 12 de espada, 1 al 12 de basto). El mazo será, por supuesto, una Lista de Cartas.

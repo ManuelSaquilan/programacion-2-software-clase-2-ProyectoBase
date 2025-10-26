@@ -22,5 +22,7 @@ public class Ejercicio49 {
     public static void main(String[] args) {
         Ejercicio49 dado1 = new Ejercicio49();
         Ejercicio49 dado2 = new Ejercicio49();
+        System.out.println("Valor del dado 1: " + dado1.valor);
+        System.out.println("Valor del dado 2: " + dado2.valor);
     }
 }

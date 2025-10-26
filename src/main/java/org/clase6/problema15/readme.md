@@ -1,0 +1,1 @@
+Crear una lista de enteros llamada números (List<Integer>). Pedirle al usuario que agregue números a esta lista, recursivamente, hasta que este ingrese un 0. Cuando eso suceda, imprimir todos los números ingresados y el promedio de los mismos.

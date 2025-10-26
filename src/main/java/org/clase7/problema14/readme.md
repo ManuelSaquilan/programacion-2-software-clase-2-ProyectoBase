@@ -1,0 +1,1 @@
+*Crear un mapa con llaves String y valores String. Cargar el mapa con el nombre de 5 paises como llave y sus capitales correspondientes como valor. Imprimir el nombre de los 5 paises y sus capitales, obteniendo los datos desde el mapa.*

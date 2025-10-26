@@ -1,0 +1,2 @@
+# Problema 3
+Crear una lista de tres nombres, como en el ejercicio anterior. Eliminar el último elemento de la lista y reemplazar el primer elemento por otro. Imprimir los nombres en la lista y el tamaño de la misma.

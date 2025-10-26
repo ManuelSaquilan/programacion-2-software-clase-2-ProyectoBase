@@ -1,0 +1,1 @@
+Programar un mapa que relacione llaves de tipo String con valores de tipo String. Cargar 5 modelos de autos, utilizando el modelo como Key/Llave y el fabricante como Value/Valor, mediante la instrucción .put(K,V). Imprimir modelo y fabricante de todos los autos ingresados, utilizando el método .get(K).

@@ -1,0 +1,1 @@
+Programar una clase Auto que tenga los parámetros marca (String) y modelo (int), un constructor con estos parámetros y getters para ambos. Crear una lista de objetos Auto (List<Auto>) y pedirle al usuario que ingrese 3 autos, que serán almacenados en la lista. Imprimir la marca y modelo de cada uno de los Autos ingresados en la lista.

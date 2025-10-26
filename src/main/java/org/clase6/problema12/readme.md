@@ -1,0 +1,2 @@
+# Problema 12:
+ Si tenemos una clase Alumno, con los campos nombre (String) y nota (Int), un constructor que admita el nombre como parámetro, un getter para el nombre y un setter para la nota, programar esta clase crear una lista con 4 alumnos (de nombres ficticios). Desordenar esta lista e iterar sobre ella, pidiéndole al usuario que ingrese la nota del estudiante en ese lugar de la lista.

@@ -1,0 +1,1 @@
+Diseñar un método que tome de parámetro una Lista de Cartas (mazo completo) y retorne otra Lista, de solo tres cartas esta vez, elegidas al azar del mazo. Llamar a este método desde el programa principal e imprimir los valores de la Lista de retorno (las tres cartas elegidas al azar). Asegurarse de que en las tres cartas elegidas al azar, no existan repetidas.

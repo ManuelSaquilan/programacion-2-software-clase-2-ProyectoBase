@@ -1,0 +1,1 @@
+Programar un método que tome de parámetro una Lista de Cartas, y retorne una carta aleatoria. Llamar a este método desde el main e imprimir el numero y palo del valor de retorno.

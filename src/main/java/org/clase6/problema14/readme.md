@@ -1,0 +1,1 @@
+Crear una lista de Strings llamada sistemaSolar y cargar uno por uno y en orden el nombre de los planetas del sistema solar. Imprimir el tamaño de la lista y todos los elementos y su índice.

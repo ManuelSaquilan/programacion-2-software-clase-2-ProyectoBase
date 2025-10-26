@@ -1,0 +1,2 @@
+# Problema 4
+Crear una lista de tres nombres, como en el ejercicio anterior. Imprimir el resultado de llamar el método .isEmpty() sobre la lista, luego eliminar todos los elementos de la lista utilizando .clear() y nuevamente preguntar el resultado del método isEmpty() sobre la lista. Finalmente, preguntar el tamaño de la lista al final del programa.

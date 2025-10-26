@@ -1,0 +1,3 @@
+## Problema 8:
+*– Algoritmos y Estructuras de Datos II –
+Declarar un mapa vacío con llaves de tipo String y valores de tipo Tarjeta, según la explicación anterior. Supongamos que el número de una tarjeta de crédito solo es válido si es mayor a 4 cuadrillones (4000 0000 0000 0000) y menor a 6 cuadrillones (6000 0000 0000 0000), además, si comienza con 4 es Visa y si comienza con 5 es Master. Realizar un programa que pida al usuario el nombre y el número de tarjeta. Si el número es válido guardar la tarjeta en el mapa, de lo contrario informar un error y solicitar el numero nuevamente. Imprimir la Tarjeta almacenada en el mapa utilizando un iterador y el método entrySet.*

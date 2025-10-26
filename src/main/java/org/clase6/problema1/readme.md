@@ -1,0 +1,2 @@
+# Problema 1
+instanciar las siguientes tres cartas: el 7 de espadas, el 6 de espadas y el 1 de basto. Declarar una lista de cartas y añadir las tres cartas a dicha lista utilizando el método add(). Obtener e imprimir el número y el palo de las tres cartas utilizando el método .get(). Deberás crear la clase Carta y en el método main de tu clase principal programar la lista, instanciar las tres cartas, añadir dichas cartas a la lista y luego imprimir el número y palo de cada una.
